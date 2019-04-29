@@ -5,7 +5,11 @@
     "description": "Simple Web application"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "ov"
+      }
+    ],
     "diagrams": []
   }
 }
